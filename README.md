@@ -1,0 +1,1 @@
+Este proyecto genera un numero aleatorio, al generar este numero verifica si es mayor o menor a o.5 y muestra por consola "numero_generado MAYOR que 0,5" o "numero_generado MENOR que 0,5" respectivamente
